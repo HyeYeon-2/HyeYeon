@@ -15,11 +15,8 @@
 </div>
 
 ## ✏Tools
+<img style="margin: 10px" src="https://user-images.githubusercontent.com/84279882/130206334-dc66a6ac-e311-42c6-a79d-d7c4b04f38f2.png" alt="eclipse" height="50" />  <img style="margin: 10px" src="https://user-images.githubusercontent.com/84279882/130206200-5ced53ab-056c-490a-b54a-6ed984597746.png" alt="tomcat" height="50" />  <img style="margin: 10px" src="https://user-images.githubusercontent.com/84279882/130206223-bd4d9dd9-f802-48a0-a5b9-1336c47d8c3e.png" alt="github" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /> 
 
-![eclipse1](https://user-images.githubusercontent.com/84279882/130206334-dc66a6ac-e311-42c6-a79d-d7c4b04f38f2.png) ![tomcat](https://user-images.githubusercontent.com/84279882/130206200-5ced53ab-056c-490a-b54a-6ed984597746.png) 
-![github](https://user-images.githubusercontent.com/84279882/130206223-bd4d9dd9-f802-48a0-a5b9-1336c47d8c3e.png) <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /> 
-<img style="margin: 10px" src="https://user-images.githubusercontent.com/84279882/130206334-dc66a6ac-e311-42c6-a79d-d7c4b04f38f2.png" alt="eclipse" height="50" />  
 
 ## 💡ETC..
 
